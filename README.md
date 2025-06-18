@@ -11,6 +11,7 @@ Mi nombre es **Miguel Ángel Pérez García** y en este examen voy a poner en pr
 ## Objetivo
 
 Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/) :school:
+
 ![Logo del IES Pablo Picasso](https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
 
 
